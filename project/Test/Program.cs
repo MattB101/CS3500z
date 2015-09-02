@@ -17,5 +17,6 @@ namespace Test
 
         }
         void sub() { }
+        void adb(){}
     }
 }
