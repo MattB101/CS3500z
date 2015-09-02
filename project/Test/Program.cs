@@ -19,6 +19,7 @@ namespace Test
         void sub() { }
         void adb(){
             Console.WriteLine("Hello");
+            Console.WriteLine("Whatmerge");
         }
     }
 }
