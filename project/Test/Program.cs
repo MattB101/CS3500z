@@ -17,6 +17,8 @@ namespace Test
 
         }
         void sub() { }
-        void adb(){}
+        void adb(){
+            Console.WriteLine("Hello");
+        }
     }
 }
