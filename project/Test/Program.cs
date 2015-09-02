@@ -16,5 +16,17 @@ namespace Test
         {
 
         }
+        void yetAnother()
+        {
+
+        }
+        int anOtherOne()
+        {
+            return 0;
+        }
+        void we() { }
+
+
+
     }
 }
